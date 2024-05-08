@@ -2,12 +2,12 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-05-06T22:18:04Z" name="Suite" finished-at="2024-05-06T22:18:16Z" duration-ms="12441">
+  <suite started-at="2024-05-08T21:22:26Z" name="Suite" finished-at="2024-05-08T21:23:33Z" duration-ms="67304">
     <groups>
     </groups>
-    <test started-at="2024-05-06T22:18:04Z" name="Test" finished-at="2024-05-06T22:18:16Z" duration-ms="12441">
+    <test started-at="2024-05-08T21:22:26Z" name="Test" finished-at="2024-05-08T21:23:33Z" duration-ms="67304">
       <class name="com.todos.tests.AddTodosTest">
-        <test-method is-config="true" signature="setupTest(java.lang.String)[pri:0, instance:com.todos.tests.AddTodosTest@6dbb137d]" started-at="2024-05-06T23:18:04Z" name="setupTest" finished-at="2024-05-06T23:18:13Z" duration-ms="8916" status="PASS">
+        <test-method is-config="true" signature="setupTest(java.lang.String)[pri:0, instance:com.todos.tests.AddTodosTest@6dbb137d]" started-at="2024-05-08T22:22:26Z" name="setupTest" finished-at="2024-05-08T22:23:31Z" duration-ms="64554" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -18,11 +18,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setupTest -->
-        <test-method signature="iCanAddTodos()[pri:0, instance:com.todos.tests.AddTodosTest@6dbb137d]" started-at="2024-05-06T23:18:13Z" name="iCanAddTodos" finished-at="2024-05-06T23:18:16Z" duration-ms="3134" status="PASS">
+        <test-method signature="iCanAddTodos()[pri:0, instance:com.todos.tests.AddTodosTest@6dbb137d]" started-at="2024-05-08T22:23:31Z" name="iCanAddTodos" finished-at="2024-05-08T22:23:32Z" duration-ms="1590" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- iCanAddTodos -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.todos.tests.AddTodosTest@6dbb137d]" started-at="2024-05-06T23:18:16Z" name="tearDown" finished-at="2024-05-06T23:18:16Z" duration-ms="364" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.todos.tests.AddTodosTest@6dbb137d]" started-at="2024-05-08T22:23:32Z" name="tearDown" finished-at="2024-05-08T22:23:33Z" duration-ms="1094" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
